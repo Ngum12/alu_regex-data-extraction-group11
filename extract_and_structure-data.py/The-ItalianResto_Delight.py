@@ -2,7 +2,7 @@
 
 import re
 
-# data for the Italian Delight restaurant
+# data for the Italian Delight restauran
 restaurant_data = """
 Restaurant: Italian Delight - Italian
 Ingredients: pasta, tomatoes, cheese, basil
