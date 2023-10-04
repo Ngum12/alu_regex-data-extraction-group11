@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import re
 
 # social medis usernames for the restaurant
