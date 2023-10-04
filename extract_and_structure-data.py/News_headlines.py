@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import re
 
 # Sample API response containing news headlines
