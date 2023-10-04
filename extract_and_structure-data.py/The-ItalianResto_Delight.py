@@ -1,5 +1,3 @@
-
-
 import re
 
 # data for the Italian Delight restaurant
@@ -31,7 +29,6 @@ product_code_match = re.search(product_code_pattern, restaurant_data)
 news_headline_match = re.search(news_headline_pattern, restaurant_data)
 event_match = re.search(event_pattern, restaurant_data)
 
-# Combine and print the extracted data
 if restaurant_name_match:
     restaurant_name = restaurant_name_match.group(1)
     print(f"Restaurant Name: {restaurant_name}")
@@ -65,4 +62,3 @@ if event_match:
     event_datetime = event_match.group(2)
     print(f"Event Details: {event_details}")
     print(f"Event Date and Time: {event_datetime}")
-
