@@ -12,4 +12,4 @@ Social media usernames
 Product codes
 News headlines
 Event dates and times
-Email addresse
+Email addresses
